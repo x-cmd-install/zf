@@ -7,7 +7,7 @@ about:
   head: c35c421
   archived: false
   latestVersion: 0.10.2
-  collectedAt: 2026-09-04T19:29:23Z
+  collectedAt: 2026-09-04T21:01:57Z
 timeline:
   created: 2021-08-23
   lastCommit: 2026-04-27
@@ -82,5 +82,33 @@ total:
   openIssue: 10
   commit: 369
 ---
+path: /home/runner/.x-repo/github.com/natecraddock/zf
+collectedAt: 2026-09-04T21:01:58Z
+loc:
+  Zig:
+    code: 1943
+    comments: 154
+    blanks: 393
+    files: 11
+  Nix:
+    code: 37
+    comments: 0
+    blanks: 0
+    files: 1
+  Fish:
+    code: 12
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 449
+    blanks: 282
+    files: 4
+total:
+  code: 2031
+  comments: 609
+  blanks: 685
+  files: 17
 ---
 
