@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 141348,
       "digest": null,
-      "download_count": 62,
+      "download_count": 63,
       "created_at": "2024-12-03T04:11:36Z",
       "updated_at": "2024-12-03T04:11:36Z",
       "browser_download_url": "https://github.com/natecraddock/zf/releases/download/0.10.2/zf-0.10.2-aarch64-macos.tar.xz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 605512,
       "digest": null,
-      "download_count": 638,
+      "download_count": 640,
       "created_at": "2024-12-03T04:11:36Z",
       "updated_at": "2024-12-03T04:11:37Z",
       "browser_download_url": "https://github.com/natecraddock/zf/releases/download/0.10.2/zf-0.10.2-x86_64-linux.tar.xz"
