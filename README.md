@@ -46,12 +46,12 @@ Total: **1,992** lines of code across **17** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-30 | 0 | 1 | 0 | 0 | 2 | 13 |
-| 360d | 2025-10-01 | 0 | 2 | 0 | 1 | 3 | 21 |
-| last720d | 2024-10-06 | 2 | 11 | 0 | 6 | 4 | 37 |
+| 30d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-31 | 0 | 1 | 0 | 0 | 2 | 11 |
+| 360d | 2025-10-02 | 0 | 2 | 0 | 1 | 3 | 19 |
+| last720d | 2024-10-07 | 2 | 11 | 0 | 6 | 4 | 37 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for zf lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:53:03Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T06:09:47Z._
