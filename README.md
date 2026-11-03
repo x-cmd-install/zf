@@ -36,7 +36,7 @@ Total: **1,946** lines of code across **17** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 607 · **Forks**: 26 · **Open issues**: 67 · **Contributors**: 14
+- **Stars**: 608 · **Forks**: 26 · **Open issues**: 67 · **Contributors**: 14
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **1,946** lines of code across **17** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-09-03 | 0 | 1 | 0 | 0 | 1 | 2 |
-| 90d | 2026-08-04 | 0 | 1 | 0 | 0 | 1 | 2 |
-| last180d | 2026-05-06 | 0 | 1 | 0 | 0 | 1 | 2 |
-| 360d | 2025-11-07 | 0 | 2 | 0 | 0 | 4 | 15 |
-| last720d | 2024-11-12 | 1 | 11 | 0 | 5 | 5 | 36 |
+| 30d | 2026-10-04 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-04 | 0 | 1 | 0 | 0 | 1 | 2 |
+| 90d | 2026-08-05 | 0 | 1 | 0 | 0 | 1 | 2 |
+| last180d | 2026-05-07 | 0 | 1 | 0 | 0 | 1 | 2 |
+| 360d | 2025-11-08 | 0 | 2 | 0 | 0 | 4 | 15 |
+| last720d | 2024-11-13 | 0 | 10 | 0 | 5 | 5 | 34 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for zf lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T07:02:21Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:45:15Z._
