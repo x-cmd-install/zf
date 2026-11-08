@@ -46,12 +46,12 @@ Total: **1,946** lines of code across **17** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-09-08 | 0 | 1 | 0 | 0 | 1 | 2 |
-| 90d | 2026-08-09 | 0 | 1 | 0 | 0 | 1 | 2 |
-| last180d | 2026-05-11 | 0 | 1 | 0 | 0 | 1 | 2 |
-| 360d | 2025-11-12 | 0 | 2 | 0 | 0 | 4 | 15 |
-| last720d | 2024-11-17 | 0 | 10 | 0 | 5 | 5 | 33 |
+| 30d | 2026-10-09 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-09 | 0 | 1 | 0 | 0 | 1 | 2 |
+| 90d | 2026-08-10 | 0 | 1 | 0 | 0 | 1 | 2 |
+| last180d | 2026-05-12 | 0 | 1 | 0 | 0 | 1 | 2 |
+| 360d | 2025-11-13 | 0 | 2 | 0 | 0 | 4 | 15 |
+| last720d | 2024-11-18 | 0 | 10 | 0 | 5 | 5 | 33 |
 
 ## Release assets
 
@@ -62,15 +62,6 @@ Total: **1,946** lines of code across **17** files in the top 5 languages.
 | [zf-0.10.2-x86_64-linux.tar.xz](https://github.com/natecraddock/zf/releases/download/0.10.2/zf-0.10.2-x86_64-linux.tar.xz) | 591.3 KiB | `native/linux/x64` |
 | [zf-0.10.2-x86_64-macos.tar.xz](https://github.com/natecraddock/zf/releases/download/0.10.2/zf-0.10.2-x86_64-macos.tar.xz) | 156.6 KiB | `native/darwin/x64` |
 
-## Distribution status
-
-Reported by **10** distros on [repology.org](https://repology.org/project/zf). **2** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.11.0` | ✅ latest |
-| Nix unstable | `0.10.3-unstable-2025-10-14` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for zf lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `zf` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -80,4 +71,4 @@ Install metadata for zf lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:48:31Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:54:35Z._
